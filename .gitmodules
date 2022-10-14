@@ -8,6 +8,11 @@
 	url = https://github.com/kzst/mfpp
 	shallow = true
 	registered = true
+[submodule "nda"]
+	path = nda
+	url = https://github.com/kzst/nda
+	shallow = true
+	registered = true
 [submodule "pbcc"]
 	path = pbcc
 	url = https://github.com/kzst/pbcc

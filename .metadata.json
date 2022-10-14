@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "nda",
+    "oncran": true
+  },
+  {
     "package": "pbcc",
     "oncran": true
   }
