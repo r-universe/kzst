@@ -1,14 +1,14 @@
 [
   {
-    "package": "mfpp",
-    "oncran": true
-  },
-  {
     "package": "nda",
     "oncran": true
   },
   {
     "package": "pbcc",
+    "oncran": true
+  },
+  {
+    "package": "mfpp",
     "oncran": true
   }
 ]
