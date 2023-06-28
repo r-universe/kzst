@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "mfpp"]
 	path = mfpp
 	url = https://github.com/kzst/mfpp
-	shallow = true
-	registered = true
 [submodule "nda"]
 	path = nda
 	url = https://github.com/kzst/nda
-	shallow = true
-	registered = true
 [submodule "pbcc"]
 	path = pbcc
 	url = https://github.com/kzst/pbcc
-	shallow = true
-	registered = true
