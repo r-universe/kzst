@@ -11,3 +11,6 @@
 [submodule "pbcc"]
 	path = pbcc
 	url = https://github.com/kzst/pbcc
+[submodule "rbcc"]
+	path = rbcc
+	url = https://github.com/kzst/rbcc
