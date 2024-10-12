@@ -8,6 +8,9 @@
 [submodule "nda"]
 	path = nda
 	url = https://github.com/kzst/nda
+[submodule "neutrostat"]
+	path = neutrostat
+	url = https://github.com/kzst/neutrostat
 [submodule "pbcc"]
 	path = pbcc
 	url = https://github.com/kzst/pbcc
