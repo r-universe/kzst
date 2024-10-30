@@ -5,6 +5,9 @@
 [submodule "mfpp"]
 	path = mfpp
 	url = https://github.com/kzst/mfpp
+[submodule "mxcc"]
+	path = mxcc
+	url = https://github.com/kzst/mxcc
 [submodule "nda"]
 	path = nda
 	url = https://github.com/kzst/nda
